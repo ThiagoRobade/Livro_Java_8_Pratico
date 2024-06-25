@@ -1,4 +1,4 @@
-package br.com.livro.loops;
+package br.com.livro.capitulo2;
 
 // Loops da maneira antiga.
 

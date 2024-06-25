@@ -1,4 +1,4 @@
-package br.com.livro.loops;
+package br.com.livro.capitulo2;
 import java.util.Arrays;
 import java.util.List;
 import java.util.function.Consumer;
